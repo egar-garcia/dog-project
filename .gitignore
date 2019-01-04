@@ -4,3 +4,4 @@ lfw/
 .ipynb_checkpoints/
 bottleneck_features/
 extract_bottleneck_features.pyc
+saved_models/
